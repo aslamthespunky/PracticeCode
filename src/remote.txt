@@ -1,1 +1,4 @@
 Let's connect on remote
+#commands 
+
+Download the Tomcat, net-tools, git 
